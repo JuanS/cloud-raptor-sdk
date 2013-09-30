@@ -1,3 +1,4 @@
 com.opentok.cloud.controller
 com.opentok.cloud.controller.connection
+com.opentok.cloud.controller.signal
 com.opentok.cloud.controller.stream
